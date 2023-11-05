@@ -30,12 +30,10 @@ Let's break down the code and explain the workflow step by step:
 
 10. **Visualization**:
     ![Figure_1](https://github.com/vr-jayashree5443/Car-Price-Prediction-with-ML/assets/128161257/de48b06e-0859-40b5-bcae-36b58fa61ea2)
-
    - Create a scatter plot that compares the actual car prices (y-axis) to the predicted prices (x-axis). This visualization helps you understand how well the model's predictions align with the true values.
 
 11. **Print Results**:
     ![Screenshot 2023-11-05 112237](https://github.com/vr-jayashree5443/Car-Price-Prediction-with-ML/assets/128161257/a6ca333f-3437-46c6-9e56-3ede4a195500)
-
    - Create a DataFrame called `results` that contains the actual prices and the model's predictions. This DataFrame is printed to the console, allowing you to examine the individual predictions and their corresponding actual values.
 
 The code follows a structured workflow from data loading and preprocessing to model training, evaluation, and visualization. It provides key performance metrics and visual representations to assess how well the machine learning model predicts car prices based on the dataset.
